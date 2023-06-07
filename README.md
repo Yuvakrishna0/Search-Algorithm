@@ -27,7 +27,6 @@ i)	#Use a linear search method to match the item in a list.
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 
 
-![Uploading Screenshot (83).png…]()
 
 
 
