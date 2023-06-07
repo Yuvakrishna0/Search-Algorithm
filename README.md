@@ -27,6 +27,7 @@ i)	#Use a linear search method to match the item in a list.
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 
 
+![image](https://github.com/Yuvakrishna0/Search-Algorithm/assets/117915037/fde7ede9-04c2-4b76-8a31-ea30cdc5b1c4)
 
 
 
